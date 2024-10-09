@@ -1,7 +1,7 @@
 # kndp
 The @kndpio CLI
 > [!WARNING]  
-> KNDP CLI changed maintainer, now web7's developers take care about it. Good Luck. 
+> KNDP CLI changed maintainer, now web7's developers take care about it under new name [overlock](https://github.com/web-seven/overlock). 
 
 # Roadmap
 - [X] Create/delete Kind-based environment. [https://github.com/kndpio/kndp/issues/2]
