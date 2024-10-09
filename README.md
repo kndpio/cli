@@ -1,5 +1,7 @@
 # kndp
 The @kndpio CLI
+> [!WARNING]  
+> KNDP CLI changed maintainer, now web7's developers take care about it. Good Luck. 
 
 # Roadmap
 - [X] Create/delete Kind-based environment. [https://github.com/kndpio/kndp/issues/2]
